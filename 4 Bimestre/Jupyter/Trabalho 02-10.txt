@@ -1,0 +1,1 @@
+Utilizando o data.csv e Introdução (estão na pasta Materiais), criar uma coluna "imc" no data e popular a coluna com o calculo do imc utilizando as colunas "height" e "weight".
